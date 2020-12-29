@@ -1,0 +1,2 @@
+# LCPractice
+leetcode practice note
